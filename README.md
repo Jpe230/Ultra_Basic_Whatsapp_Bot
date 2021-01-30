@@ -1,9 +1,9 @@
 # Ultra Basic Whatsapp Boy
 
-    This is a light version of a script I made for a TikTok, expect to be errors in the code, I'm too lazy to debug/fix them, PRs are
-    welcome.
+This is a light version of a script I made for a TikTok, expect to be errors in the code, I'm too lazy to debug/fix them, PRs are
+welcome.
 
-    This project uses [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) thus it needs Node.
+This project uses [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) thus it needs Node.
 
 
 ## Setting up the bot
